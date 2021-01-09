@@ -8,4 +8,4 @@ List of awesome papers on BRDF
 ## BRDF Representation
 |Year|Pub|Name|Paper|Formula|
 |:---:|:---:|:---:|:---:|:---:|
-|1975|ACM|Phong|[https://dl.acm.org/doi/10.1145/360825.360839](https://dl.acm.org/doi/10.1145/360825.360839)||
+|1975|ACM|Phong|[Illumination for computer generated pictures](https://dl.acm.org/doi/10.1145/360825.360839)||
