@@ -14,3 +14,4 @@ List of awesome papers on BRDF
 |1982|TOG|Cook-Torrance|[A Reflectance Model for Computer Graphics](https://dl.acm.org/doi/10.1145/357290.357293)||
 |1992|SIGGRAPH|Ward|[Measuring and modeling anisotropic reflection](https://dl.acm.org/doi/10.1145/142920.134078)||
 |1994|SIGGRAPH|Oren-Nayar|[Generalization of Lambert's reflectance model](https://dl.acm.org/doi/10.1145/192161.192213)||
+|1997|SIGGRAPH|Lafortune|[Non-Linear Approximation of Reflectance Functions](http://www.lafortune.eu/publications/Siggraph.html)||
