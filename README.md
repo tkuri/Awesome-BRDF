@@ -16,3 +16,5 @@ List of awesome papers on BRDF
 |1994|SIGGRAPH|Oren-Nayar|[Generalization of Lambert's reflectance model](https://dl.acm.org/doi/10.1145/192161.192213)||
 |1997|SIGGRAPH|Lafortune|[Non-Linear Approximation of Reflectance Functions](http://www.lafortune.eu/publications/Siggraph.html)||
 |1999|CGF|Neumann|[Compact Metallic Reflectance Models](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=3D3407B845B0B7F0314B4D2694501DEE?doi=10.1.1.41.3489&rep=rep1&type=pdf)||
+|1999|CGF|Neumann|[Compact Metallic Reflectance Models](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=3D3407B845B0B7F0314B4D2694501DEE?doi=10.1.1.41.3489&rep=rep1&type=pdf)||
+|2000|JGT|Ashikhmin-Shirley|[An anisotropic phong BRDF model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4558&rep=rep1&type=pdf)||
