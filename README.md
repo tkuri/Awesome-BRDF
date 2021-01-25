@@ -17,3 +17,4 @@ List of awesome papers on BRDF
 |1997|SIGGRAPH|Lafortune|[Non-Linear Approximation of Reflectance Functions](http://www.lafortune.eu/publications/Siggraph.html)||
 |1999|CGF|Neumann|[Compact Metallic Reflectance Models](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=3D3407B845B0B7F0314B4D2694501DEE?doi=10.1.1.41.3489&rep=rep1&type=pdf)||
 |2000|JGT|Ashikhmin-Shirley|[An anisotropic phong BRDF model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4558&rep=rep1&type=pdf)||
+|2001|CGF|Ershov|[Rendering pearlescent appearance based on paint-composition modelling](https://domino.mpi-inf.mpg.de/intranet/ag4/ag4publ.nsf/93832a04987390a3c12567530068622d/9bfb2b24db8e17bbc1256a7d004f1487/$FILE/EG01Paint.pdf)||
