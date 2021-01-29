@@ -19,4 +19,5 @@ List of awesome papers on BRDF
 |2000|JGT|Ashikhmin-Shirley|[An anisotropic phong BRDF model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4558&rep=rep1&type=pdf)||
 |2001|CGF|Ershov|[Rendering pearlescent appearance based on paint-composition modelling](https://domino.mpi-inf.mpg.de/intranet/ag4/ag4publ.nsf/93832a04987390a3c12567530068622d/9bfb2b24db8e17bbc1256a7d004f1487/$FILE/EG01Paint.pdf)||
 |2006|TOG|Edwards|[The halfway vector disk for brdf modeling](https://graphics.stanford.edu/~boulos/papers/brdftog.pdf)||
-|2006|-|Ashikhmin-Premoze|[Distribution-based brdfs](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.621.5638&rep=rep1&type=pdf)||
+|2007|-|Ashikhmin-Premoze|[Distribution-based brdfs](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.621.5638&rep=rep1&type=pdf)||
+|2007|-|Walter(GGX)|[Microfacet Models for Refraction through Rough Surfaces](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.html)||
