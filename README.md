@@ -21,3 +21,4 @@ List of awesome papers on BRDF
 |2006|TOG|Edwards|[The halfway vector disk for brdf modeling](https://graphics.stanford.edu/~boulos/papers/brdftog.pdf)||
 |2007|-|Ashikhmin-Premoze|[Distribution-based brdfs](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.621.5638&rep=rep1&type=pdf)||
 |2007|EGSR|Walter(GGX)|[Microfacet Models for Refraction through Rough Surfaces](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.html)||
+|2008|GRAPHITE|Weidlich and Wilkie|[Arbitrarily Layered Micro-Facet Surfaces](https://www.cg.tuwien.ac.at/research/publications/2007/weidlich_2007_almfs/weidlich_2007_almfs-paper.pdf)||
