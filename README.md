@@ -23,5 +23,4 @@ List of awesome papers on BRDF
 |2007|EGSR|Walter(GGX)|[Microfacet Models for Refraction through Rough Surfaces](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.html)||
 |2008|GRAPHITE|Weidlich and Wilkie|[Arbitrarily Layered Micro-Facet Surfaces](https://www.cg.tuwien.ac.at/research/publications/2007/weidlich_2007_almfs/weidlich_2007_almfs-paper.pdf)||
 |2010|SIGGRAPH|Kurt|[An anisotropic brdf model for fitting and monte carlo rendering](http://akademik.ube.ege.edu.tr/~kurt/Publications/SIGGRAPH_Computer_Graphics_2010_Kurt.pdf)||
-|2012|CGF|Bagher|[Accurate fitting of measured reflectances using a Shifted
-Gamma micro-facet distribution](https://hal.inria.fr/hal-00702304/document)||
+|2012|CGF|Bagher|[Accurate fitting of measured reflectances using a Shifted Gamma micro-facet distribution](https://hal.inria.fr/hal-00702304/document)||
