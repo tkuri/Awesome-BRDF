@@ -26,3 +26,4 @@ List of awesome papers on BRDF
 |2012|CGF|Bagher|[Accurate fitting of measured reflectances using a Shifted Gamma micro-facet distribution](https://hal.inria.fr/hal-00702304/document)||
 |2012|TOG|L&omacr;w|[Brdf models for accurate and efficient rendering of glossy surfaces](https://dl.acm.org/doi/10.1145/2077341.2077350)||
 |2014|TOG|Brady|[genBRDF: discovering new analytic BRDFs with genetic programming](https://dl.acm.org/doi/10.1145/2601097.2601193)||
+|2014|TOG|Jakob|[Discrete stochastic microfacet models](https://dl.acm.org/doi/10.1145/2601097.2601186)||
