@@ -11,7 +11,8 @@ List of awesome papers on BRDF
 |1720|Eberhard Klett|Lambert|[Photometria sive de mensura et gradibus luminis, colorum et umbrae](https://archive.org/details/lambertsphotome00lambgoog/page/n6/mode/2up)|![\begin{align*}\frac{1}{\pi} \rho_d\end{align*}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Cfrac%7B1%7D%7B%5Cpi%7D+%5Crho_d%0A%5Cend%7Balign%2A%7D%0A)||
 |1975|CACM|Phong|[Illumination for computer generated pictures](https://dl.acm.org/doi/10.1145/360825.360839)|||
 |1977|SIGGRAPH|Blinn-Phong|[Models of light reflection for computer synthesized pictures](https://dl.acm.org/doi/10.1145/965141.563893)|||
-|1982|TOG|Cook-Torrance|[A Reflectance Model for Computer Graphics](https://dl.acm.org/doi/10.1145/357290.357293)|||
+|1982|TOG|Cook-Torrance|[A Reflectance Model for Computer Graphics](https://dl.acm.org/doi/10.1145/357290.357293)||&#10003;|
+|1991|SIGGRAPH|He|[A comprehensive physical model for light reflection](https://dl.acm.org/doi/10.1145/127719.122738)|||
 |1992|SIGGRAPH|Ward|[Measuring and modeling anisotropic reflection](https://dl.acm.org/doi/10.1145/142920.134078)|||
 |1994|SIGGRAPH|Oren-Nayar|[Generalization of Lambert's reflectance model](https://dl.acm.org/doi/10.1145/192161.192213)|||
 |1997|SIGGRAPH|Lafortune|[Non-Linear Approximation of Reflectance Functions](http://www.lafortune.eu/publications/Siggraph.html)|||
