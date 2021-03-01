@@ -6,7 +6,8 @@ List of awesome papers on BRDF
 - [BRDF Representation](#brdf-representation)
 
 ## BRDF Representation
-![brdf](img/brdf.jpg "brdf")
+<img src="img/brdf.jpg" width=50%>
+
 |Year|Pub|Name|Paper|Formula|Reciprocity|Energy Cons.|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1720|Eberhard Klett|Lambert|[Photometria sive de mensura et gradibus luminis, colorum et umbrae](https://archive.org/details/lambertsphotome00lambgoog/page/n6/mode/2up)|![\begin{align*}\frac{1}{\pi} \rho_d\end{align*}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Cfrac%7B1%7D%7B%5Cpi%7D+%5Crho_d%0A%5Cend%7Balign%2A%7D%0A)|||
