@@ -6,7 +6,7 @@ List of awesome papers on BRDF
 - [BRDF Representation](#brdf-representation)
 
 ## BRDF Representation
-<img src="img/brdf.jpg" width=50%>
+<img src="img/brdf.jpg" width=0%>
 
 |Year|Pub|Name|Paper|Formula|Reciprocity|Energy Cons.|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
