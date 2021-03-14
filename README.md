@@ -30,3 +30,56 @@ List of awesome papers on BRDF
 |2012|TOG|L&omacr;w|[Brdf models for accurate and efficient rendering of glossy surfaces](https://dl.acm.org/doi/10.1145/2077341.2077350)||&#10003;||
 |2014|TOG|Brady|[genBRDF: discovering new analytic BRDFs with genetic programming](https://dl.acm.org/doi/10.1145/2601097.2601193)||&#10003;||
 |2014|TOG|Jakob|[Discrete stochastic microfacet models](https://dl.acm.org/doi/10.1145/2601097.2601186)||||
+
+
+<table>
+  <thead>
+  <tr>
+    <th>Name</th>
+    <th>Year</th>
+    <th>Pub</th>
+    <th>Paper</th>
+    <th>Reciprocity</th>
+    <th>Energy Cons.</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td rowspan="2">Lambert</td>
+    <td>1720</td>
+    <td>Eberhard Klett</td>
+    <td><a href= "https://archive.org/details/lambertsphotome00lambgoog/page/n6/mode/2up" target="_blank" >Photometria sive de mensura et gradibus luminis, colorum et umbrae</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan='5'><img src=
+"https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Cfrac%7B1%7D%7B%5Cpi%7D%5Crho_d%0A%5Cend%7Balign%2A%7D%0A" 
+alt="\begin{align*}
+\frac{1}{\pi}\rho_d
+\end{align*}
+"></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Phong</td>
+    <td>1975</td>
+    <td>CACM</td>
+    <td>
+    <a href="https://dl.acm.org/doi/10.1145/360825.360839" target="_blank">Illumination for computer generated pictures</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+  <td colspan='5'><img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d+%2B+%5Crho_s%28%5Comega_o+%5Ccdot+%5Comega_r%29%5Em%0A%5Cend%7Balign%2A%7D%0A" alt="\begin{align*}i_d + \rho_s(\omega_o \cdot \omega_r)^m\end{align*}"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </tbody>
+</table>
