@@ -48,7 +48,7 @@ List of awesome papers on BRDF
     <td rowspan="2">Lambert</td>
     <td>1720</td>
     <td>Eberhard Klett</td>
-    <td><a href= "https://archive.org/details/lambertsphotome00lambgoog/page/n6/mode/2up" target="_blank" >Photometria sive de mensura et gradibus luminis, colorum et umbrae</a></td>
+    <td><a href= "https://archive.org/details/lambertsphotome00lambgoog/page/n6/mode/2up">Photometria sive de mensura et gradibus luminis, colorum et umbrae</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -65,7 +65,7 @@ alt="\begin{align*}
     <td>1975</td>
     <td>CACM</td>
     <td>
-    <a href="https://dl.acm.org/doi/10.1145/360825.360839" target="_blank">Illumination for computer generated pictures</a>
+    <a href="https://dl.acm.org/doi/10.1145/360825.360839">Illumination for computer generated pictures</a>
     </td>
     <td></td>
     <td></td>
