@@ -74,6 +74,19 @@ alt="\begin{align*}
   <td colspan='5'><img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d+%2B+%5Crho_s%28%5Comega_o+%5Ccdot+%5Comega_r%29%5Em%0A%5Cend%7Balign%2A%7D%0A" alt="\begin{align*}i_d + \rho_s(\omega_o \cdot \omega_r)^m\end{align*}"></td>
   </tr>
   <tr>
+    <td rowspan="2">Blinn-Phong</td>
+    <td>1977</td>
+    <td>SIGGRAPH</td>
+    <td>
+    <a href="https://dl.acm.org/doi/10.1145/965141.563893">Models of light reflection for computer synthesized pictures</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+  <td colspan='5'><img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d+%2B+%5Crho_s%28%5Comega_o+%5Ccdot+%5Comega_r%29%5Em%0A%5Cend%7Balign%2A%7D%0A" alt="\begin{align*}i_d + \rho_s(\omega_o \cdot \omega_r)^m\end{align*}"></td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
