@@ -84,7 +84,8 @@ alt="\begin{align*}
     <td></td>
   </tr>
   <tr>
-  <td colspan='5'><img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d+%2B+%5Crho_s%28%5Comega_o+%5Ccdot+%5Comega_r%29%5Em%0A%5Cend%7Balign%2A%7D%0A" alt="\begin{align*}i_d + \rho_s(\omega_o \cdot \omega_r)^m\end{align*}"></td>
+  <td colspan='5'><img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d%2B%5Crho_s%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7Bh%7D%29%5Em%0A%5Cend%7Balign%2A%7D" 
+alt="\begin{align*}i_d+\rho_s(\mathbf{n} \cdot \mathbf{h})^m\end{align*}"></td>
   </tr>
   <tr>
     <td></td>
