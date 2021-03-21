@@ -88,6 +88,19 @@ alt="\begin{align*}
 alt="\begin{align*}i_d+\rho_s(\mathbf{n} \cdot \mathbf{h})^m\end{align*}"></td>
   </tr>
   <tr>
+    <td rowspan="2">Cook-Torrance</td>
+    <td>1977</td>
+    <td>SIGGRAPH</td>
+    <td>
+    <a href="https://dl.acm.org/doi/10.1145/357290.357293">A Reflectance Model for Computer Graphics</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td></td>
+  </tr>
+  <tr>
+  <td colspan='5'><img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d%2B%5Crho_s%5Cfrac%7BDGF%7D%7B%5Cpi%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Comega_i%29%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Comega_o%29%7D%0A%5Cend%7Balign%2A%7D" alt="\begin{align*}i_d+\rho_s\frac{DGF}{\pi(\mathbf{n} \cdot \omega_i)(\mathbf{n} \cdot \omega_o)}\end{align*}"></td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
@@ -95,5 +108,7 @@ alt="\begin{align*}i_d+\rho_s(\mathbf{n} \cdot \mathbf{h})^m\end{align*}"></td>
     <td></td>
     <td></td>
   </tr>
-  </tbody>
+
+
+</tbody>
 </table>
