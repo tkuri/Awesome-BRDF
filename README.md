@@ -99,7 +99,11 @@ alt="\begin{align*}i_d+\rho_s(\mathbf{n} \cdot \mathbf{h})^m\end{align*}"></td>
   </tr>
   <tr>
   <td colspan='5'><img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d%2B%5Crho_s%5Cfrac%7BDGF%7D%7B%5Cpi%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Comega_i%29%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Comega_o%29%7D%0A%5Cend%7Balign%2A%7D" alt="\begin{align*}i_d+\rho_s\frac{DGF}{\pi(\mathbf{n} \cdot \omega_i)(\mathbf{n} \cdot \omega_o)}\end{align*}">
-    <img src="https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AD%3D%5Cfrac%7B1%7D%7B4m%5E2%28N+%5Ccdot+H%29%5E4%7D%5Cexp%7B%5CBigg%28-%5Cfrac%7B1%28N+%5Ccdot+H%29%5E2%7D%7Bm%5E2%28N+%5Ccdot+H%29%5E2%7D%5CBigg%29%7D%0A%5Cend%7Balign%2A%7D" alt="\begin{align*} D=\frac{1}{4m^2(N \cdot H)^4}\exp{\Bigg(-\frac{1-(N \cdot H)^2}{m^2(N \cdot H)^2}\Bigg)} \end{align*}">
+<img src=
+"https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AD%3D%5Cfrac%7B1%7D%7B4m%5E2%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7Bh%7D%29%5E4%7D%5Cexp%7B%5CBigg%28-%5Cfrac%7B1-%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7Bh%7D%29%5E2%7D%7Bm%5E2%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7Bh%7D%29%5E2%7D%5CBigg%29%7D%0A%5Cend%7Balign%2A%7D" 
+alt="\begin{align*}
+D=\frac{1}{4m^2(\mathbf{n} \cdot \mathbf{h})^4}\exp{\Bigg(-\frac{1-(\mathbf{n} \cdot \mathbf{h})^2}{m^2(\mathbf{n} \cdot \mathbf{h})^2}\Bigg)}
+\end{align*}">
     </td>
   </tr>
   <tr>
