@@ -104,6 +104,11 @@ alt="\begin{align*}i_d+\rho_s(\mathbf{n} \cdot \mathbf{h})^m\end{align*}"></td>
 alt="\begin{align*}
 D=\frac{1}{4m^2(\mathbf{n} \cdot \mathbf{h})^4}\exp{\Bigg(-\frac{1-(\mathbf{n} \cdot \mathbf{h})^2}{m^2(\mathbf{n} \cdot \mathbf{h})^2}\Bigg)}
 \end{align*}">
+<img src=
+"https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AG%3D%5Cmin%7B%5CBigg%281%2C+%5Cfrac%7B2%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7Bh%7D%29%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7B%5Comega_o%7D%29%7D%7B%5Cmathbf%7Bh%7D+%5Ccdot+%5Comega_o%7D%2C+%5Cfrac%7B2%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7Bh%7D%29%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Cmathbf%7B%5Comega_i%7D%29%7D%7B%5Cmathbf%7Bh%7D+%5Ccdot+%5Comega_o%7D%5CBigg%29%7D%0A%5Cend%7Balign%2A%7D" 
+alt="\begin{align*}
+G=\min{\Bigg(1, \frac{2(\mathbf{n} \cdot \mathbf{h})(\mathbf{n} \cdot \mathbf{\omega_o})}{\mathbf{h} \cdot \omega_o}, \frac{2(\mathbf{n} \cdot \mathbf{h})(\mathbf{n} \cdot \mathbf{\omega_i})}{\mathbf{h} \cdot \omega_o}\Bigg)}
+\end{align*}">
     </td>
   </tr>
   <tr>
