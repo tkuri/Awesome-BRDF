@@ -31,7 +31,12 @@ List of awesome papers on BRDF
 |2014|TOG|Brady|[genBRDF: discovering new analytic BRDFs with genetic programming](https://dl.acm.org/doi/10.1145/2601097.2601193)||&#10003;||
 |2014|TOG|Jakob|[Discrete stochastic microfacet models](https://dl.acm.org/doi/10.1145/2601097.2601186)||||
 
-
+### Fresnel Term
+<img src=
+"https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AF%3DF_0%2B%281-F_0%29%281-%5Ccos%7B%5Ctheta_i%7D%29%0A%5Cend%7Balign%2A%7D" 
+alt="\begin{align*}
+F=F_0+(1-F_0)(1-\cos{\theta_i})
+\end{align*}">
 <table>
   <thead>
   <tr>
