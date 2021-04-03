@@ -117,6 +117,20 @@ G=\min{\Bigg(1, \frac{2(\mathbf{n} \cdot \mathbf{h})(\mathbf{n} \cdot \mathbf{\o
     </td>
   </tr>
   <tr>
+    <td rowspan="2">He</td>
+    <td>1991</td>
+    <td>SIGGRAPH</td>
+    <td>
+    <a href="https://dl.acm.org/doi/10.1145/127719.122738">A comprehensive physical model for light reflection</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>        
+  <tr>
     <td></td>
     <td></td>
     <td></td>
