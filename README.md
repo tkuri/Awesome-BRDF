@@ -142,6 +142,11 @@ G=\min{\Bigg(1, \frac{2(\mathbf{n} \cdot \mathbf{h})(\mathbf{n} \cdot \mathbf{\o
   </tr>
   <tr>
   <td colspan='5'>
+    <img src=
+"https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AD_%7Biso%7D%3D%5Cfrac%7B1%7D%7B4+%5Cpi+m%5E2+%5Csqrt%7B%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Comega_i%29%28%5Cmathbf%7Bn%7D+%5Ccdot+%5Comega_o%29%7D%7D%5Cexp%7B%5CBig%28-%5Ctan%5E2+%5CBig%28%5Cfrac%7B%5Ctheta_h%7D%7Bm%5E2%7D%5CBig%29%5CBig%29%7D%0A%5Cend%7Balign%2A%7D" 
+alt="\begin{align*}
+D_{iso}=\frac{1}{4 \pi m^2 \sqrt{(\mathbf{n} \cdot \omega_i)(\mathbf{n} \cdot \omega_o)}}\exp{\Big(-\tan^2 \Big(\frac{\theta_h}{m^2}\Big)\Big)}
+\end{align*}">
   </td>
   </tr>        
   <tr>
