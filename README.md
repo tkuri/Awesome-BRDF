@@ -155,6 +155,20 @@ D_{aniso}=\frac{1}{4 \pi m_x m_y \sqrt{(\mathbf{n} \cdot \omega_i)(\mathbf{n} \c
   </td>
   </tr>        
   <tr>
+    <td rowspan="2">Oren-Nayar</td>
+    <td>1994</td>
+    <td>SIGGRAPH</td>
+    <td>
+    <a href="https://dl.acm.org/doi/10.1145/192161.192213">Generalization of Lambert's reflectance model</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
