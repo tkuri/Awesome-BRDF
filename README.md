@@ -166,6 +166,11 @@ D_{aniso}=\frac{1}{4 \pi m_x m_y \sqrt{(\mathbf{n} \cdot \omega_i)(\mathbf{n} \c
   </tr>
   <tr>
   <td colspan='5'>
+    <img src=
+"https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Ai_d%3D%5Crho_d+%5Cfrac%7B1%7D%7B%5Cpi%7D%5CBig%281-%5Cfrac%7B0.5%7D%7Bm%2B0.33%7D%2B%5Cfrac%7B0.44m%7D%7Bm%2B0.99%7D%5Ccos%7B%28%5Cphi_i-%5Cphi_o%29%7D%5Csin%7B%5Cbig%28%5Cmax%7B%28%5Ctheta_i%2C+%5Ctheta_o%29%7D%5Cbig%29%7D%5Ctan%7B%5Cbig%28%5Cmin%7B%28%5Ctheta_i%2C+%5Ctheta_o%29%7D%5Cbig%29%7D%5CBig%29%0A%5Cend%7Balign%2A%7D" 
+alt="\begin{align*}
+i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi_i-\phi_o)}\sin{\big(\max{(\theta_i, \theta_o)}\big)}\tan{\big(\min{(\theta_i, \theta_o)}\big)}\Big)
+\end{align*}">
   </td>
   </tr>
   <tr>
