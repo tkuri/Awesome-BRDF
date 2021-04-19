@@ -174,6 +174,20 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
   </td>
   </tr>
   <tr>
+    <td rowspan="2">Lafortune</td>
+    <td>1997</td>
+    <td>SIGGRAPH</td>
+    <td>
+    <a href="http://www.lafortune.eu/publications/Siggraph.html">Non-Linear Approximation of Reflectance Functions</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
