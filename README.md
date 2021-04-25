@@ -188,6 +188,20 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
   </td>
   </tr>
   <tr>
+    <td rowspan="2">Neumann</td>
+    <td>1999</td>
+    <td>CGF</td>
+    <td>
+    <a href="http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=3D3407B845B0B7F0314B4D2694501DEE?doi=10.1.1.41.3489&rep=rep1&type=pdf">Compact Metallic Reflectance Models</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
