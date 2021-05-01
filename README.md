@@ -202,6 +202,20 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
   </td>
   </tr>
   <tr>
+    <td rowspan="2">Ashikhmin-Shirley</td>
+    <td>2000</td>
+    <td>JGT</td>
+    <td>
+    <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4558&rep=rep1&type=pdf">An anisotropic phong BRDF model</a>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
