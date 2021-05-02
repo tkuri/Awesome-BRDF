@@ -216,6 +216,20 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
   </td>
   </tr>
   <tr>
+    <td rowspan="2">Ershov</td>
+    <td>2001</td>
+    <td>CGF</td>
+    <td>
+    <a href="https://domino.mpi-inf.mpg.de/intranet/ag4/ag4publ.nsf/93832a04987390a3c12567530068622d/9bfb2b24db8e17bbc1256a7d004f1487/$FILE/EG01Paint.pdf">Rendering pearlescent appearance based on paint-composition modelling</a>
+    </td>
+    <td align="center"></td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
