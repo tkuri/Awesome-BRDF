@@ -244,6 +244,20 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
   </td>
   </tr>
   <tr>
+    <td rowspan="2">Ashikhmin-Premoze</td>
+    <td>2007</td>
+    <td>-</td>
+    <td>
+    <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.621.5638&rep=rep1&type=pdf">Distribution-based brdfs</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
