@@ -254,6 +254,10 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
     <td align="center">&#10003;</td>
   </tr>
   <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td rowspan="2">Walter(GGX)</td>
     <td>2007</td>
     <td>EGSR</td>
