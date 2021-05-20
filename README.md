@@ -272,6 +272,20 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
   </td>
   </tr>
   <tr>
+    <td rowspan="2">Weidlich and Wilkie</td>
+    <td>2008</td>
+    <td>GRAPHITE</td>
+    <td>
+    <a href="https://www.cg.tuwien.ac.at/research/publications/2007/weidlich_2007_almfs/weidlich_2007_almfs-paper.pdf">Arbitrarily Layered Micro-Facet Surfaces</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
