@@ -342,6 +342,20 @@ i_d=\rho_d \frac{1}{\pi}\Big(1-\frac{0.5}{m+0.33}+\frac{0.44m}{m+0.99}\cos{(\phi
   </td>
   </tr>
   <tr>
+    <td rowspan="2">Jakob</td>
+    <td>2014</td>
+    <td>TOG</td>
+    <td>
+    <a href="https://dl.acm.org/doi/10.1145/2601097.2601186">Discrete stochastic microfacet models</a>
+    </td>
+    <td align="center">&#10003;</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+  <td colspan='5'>
+  </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
